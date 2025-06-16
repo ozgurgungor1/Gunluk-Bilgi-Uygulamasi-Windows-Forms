@@ -1,0 +1,1 @@
+# Gunluk-Bilgi-Uygulamasi-Windows-Forms
