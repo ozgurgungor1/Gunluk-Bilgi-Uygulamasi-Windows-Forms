@@ -8,8 +8,8 @@ Windows Forms ile geliştirilmiş, Vikipedi üzerinden rastgele konulardan bilgi
 
 
 🚀 Özellikler
-🎲 Her tıklamada rastgele bir konudan bilgi getirir
 
+🎲 Her tıklamada rastgele bir konudan bilgi getirir
 
 🌙 Koyu mod desteği
 
@@ -21,8 +21,6 @@ Windows Forms ile geliştirilmiş, Vikipedi üzerinden rastgele konulardan bilgi
 
 🖥️ Ekran Görüntüsü
 Bilgi kutusu ve görsel gösterimi ile modern bir arayüz
-📌 Koyu mod açık ve bilgi kartı dolu bir örnek:
-
 
 
 +---------------------------------------------+
